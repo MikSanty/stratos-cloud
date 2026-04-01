@@ -1,4 +1,4 @@
-# Brand Enterprise Cloud
+# Stratos Cloud
 
 A modern enterprise-focused marketing website built with Next.js App Router.
 
